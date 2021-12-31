@@ -1,0 +1,18 @@
+{
+ "item.tutorialmod:amethyst": "Amethyst",
+ "itemGroup.Modtab": "ModTab",
+ "block.tutorialmod.amethyst_ore": "Amethyst Ore",
+ "block.tutorialmod.titanium_block": "Titanium Block",
+ "item.tutorialmod.titanium_ingot": "Titanium Ingot",
+ "item.tutorialmod.firestone": "FireStone",
+ "block.tutorialmod.cooking_pot": "Cooking Pot",
+ "block.tutorialmod.firestone_block": "Firestone Block",
+ "tooltip.tutorialmod.firestone": "Hold \u00A7eShift\u00A7r for more information",
+ "tooltip.tutorialmod.firestone_shift": "Might sat you on fire. But also might protect from it! ",
+ "item.tutorialmod.amethyst_sword": "Amethyst Sword",
+ "item.tutorialmod.amethyst_axe": "Amethyst Axe",
+ "item.tutorialmod.amethyst_pickaxe": "Amethyst Pickaxe",
+ "item.tutorialmod.amethyst_shovel": "Amethyst Shovel",
+ "item.tutorialmod.amethyst_hoe": "Amethyst Hoe"
+
+}
